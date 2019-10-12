@@ -8,7 +8,7 @@ import (
 )
 
 type A struct {
-	EventEmitter
+	Emitter
 	name string
 }
 
